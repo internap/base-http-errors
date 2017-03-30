@@ -1,5 +1,5 @@
 {
-  "name": "base-http-errors",
+  "name": "@internap/base-http-errors",
   "version": "0.0.4",
   "description": "A set of basic HTTP errors that can be used in Express.js",
   "main": "index.js",
