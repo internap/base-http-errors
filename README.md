@@ -40,6 +40,7 @@ app.use((err, req, res, next) => {
 | TooManyRequests   | Too Many Requests  | 429          |
 | NotFound          | Not Found          | 404          |
 | Unauthorized      | Unauthorized       | 401          |
+| Forbidden         | Forbidden          | 403          |
 | BadRequest        | Bad Request        | 400          |
 | InvalidInput      | Invalid Input      | 400          |
 
