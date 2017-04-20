@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: opensource@internap.com
+  api_key:
+    secure: W7y3x07CN0bkPoSLJb5u2x/xNfaOXaaXhpNx5SRvsPSqZAObnafzHKQJfzB88SJE5G9ccQvfKQBj2e8S4dX8Fx+ZpYXNTaHg55GMtCvRbJ/9jHK3vA+l37eBQI2EWof/HrLp4P6i2aabL2g87ynG1kZ6jEsZ2gXKOe+d9yYhy9iKu8nuIyQoA1pb3TU0UCqRh2JEsELb34bQr1ElTeE41kEkUDfCcCk7aCM54myDh/ANgwRfu3gBgtarfUBAjSw9IUvH9EW3t/JpEVIr7dPNDcAUbKkmU63L3YUiE85oopVq9pECPcDDW2eMOtcrtu+/JCo5Kwfe88KuduEz66dM/QOdfaiFDHE5JOt3/Ql1s/ayhhcUD5HOxhb/1u3GdZ4Zk4JIxgEP3pKXzLm3EQpeKYzaydnvLKxI/jsOsilPkc703/TyW78OejxaWRg64Y83Bxkil4Q+g2MsqNLT5iRfTIadfFLDsFbV9MLWjBHQEhoO0q/NgwvVWv4CwDhCxV5gjf6Tqh+F1kaKfRGMz6LgFPIfNZJF0XLps88zeZlijEy12vRUgGSKStswRwmI/yz3kcYpI+mPN/DiFlJh0OrXOkJI7emP3oPfAa78pXR8eAIRX8wWLrMpcboZNAd614xepEwHiH/XFuSv05m6wS2CH0vwFnsgWLzVVmSO/vRDU3I=
+  on:
+    tags: true
+    repo: internap/base-http-errors
